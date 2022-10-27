@@ -1,1 +1,1 @@
-# Audio classiication for Monitoring Door Lock Status
+# Audio classification for Monitoring Door Lock Status
